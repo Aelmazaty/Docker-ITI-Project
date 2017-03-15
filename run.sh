@@ -162,7 +162,7 @@ REMARK: [cat $SCRIPT_CURRENT_DIRECTORY/log_error.out] command will execute AUTOM
 
 	# Runing WordPress Container
 	echo_prinT "WordPress Container" "subhead"
-	sudo docker run -i -t --name downloader mohayman/downloader
+	sudo docker run -i -t --name downloader mohayman/wpdownloader
 	if [ $? -ne 0 ]
 	then
 		echo "[xXx] Failed : See Error Logs.
