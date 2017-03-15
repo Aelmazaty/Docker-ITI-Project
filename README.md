@@ -9,4 +9,4 @@
 #	      -r, --run           	TO RUN STACK'S CONTAINERS.
 #	      -b-r, --build--run 	  TO BUILD THE IMAGES AND THEN RUN THE CONTAINERS.
 
-# There is Error Log Files For Failed Operations Will Be Created in Preject Directory.
+# Error Log Files For Failed Operations Will Be Created in Preject Directory.
